@@ -1,8 +1,10 @@
 # The Hermetic Order of the Dawning Night
 
-Note: To lower level members, it is known as the Hermetic Order of the Dawning.
+Note: While this is loosely based on the Hermetic Order of the Golden Dawn, it is not meant to be an accurate representation of that organization.
 
 ## Philosophy
+
+Note: To lower level members, it is known as the Hermetic Order of the Dawning. The mention of night is reserved for higher level members.
 
 Like Theosophy and other occult movements of the time, the Hermetic Order of the Dawning Night is a syncretic religion that draws on elements of Christianity, Eastern religions, and Western esotericism.
 
