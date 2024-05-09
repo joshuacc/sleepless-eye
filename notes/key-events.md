@@ -1,0 +1,46 @@
+# Key events and images
+
+The following should be included in the final version of the novel. The are not necessarily in order.
+
+- The book opens with the Pope having a vision of a great evil.
+- Epigraph of the St. Michael prayer.
+- Action scenes where Clare uses martial arts, intimidating tricks, and devices provided by Tesla to fight both ordinary and extraordinary enemies.
+- Clare meeting Nicola Tesla and being introduced to his inventions.
+- Clare witnesses her father's death at the hands of an odd looking man with a mechanical arm.
+- Clare's first vision of the angelic figure (which should be terrifying a la Ezekiel or Revelation) after her father's death. In this vision she is called to be protector of the city.
+- Clare (metaphorically) vows vengeance.
+- Clare gets stitched up by a black doctor. (What's the connection?)
+- Clare hides out in the slums for weeks to be sure the danger has passed. (Why does she think there is danger to her?)
+- Clare meets Aurora at her father's funeral.
+- Clare witnesses a street fight a conventional boxer and a martial artist. The martial artist throws the fight, but Clare seeks him out afterwards.
+- Several training scenes with the martial artist.
+- Clare seeking out Tesla for help in her quest for vengeance.
+- A climactic battle at the World's Fair
+- Fr. Tobias having to race across Chicago in a motorcar (which he hates) in order to get help clare at the climactic battle
+- Tobias discovering that HH Holmes was working for someone else
+- Clare discovering that Aurora was the force ultimately behind her father's death.
+- Clare making the choice to give up vengeance on Aurora in order to save the city.
+- Tobias doubts his assignment and the reports of a "devil" in Chicago. (The devil is Clare.)
+- Tobias arrives to investigate religious deaths in Chicago.
+- Tobias finds the "devil" (Clare) over the bishop's body, and presumes that the bishop was killed by this figure.
+- Tobias sees Clare at a social gathering using a cane to walk, but becomes suspicious when he sees her use it to fight off an assailant.
+- Clare reveals to Tobias the nature of her visions and her mission.
+- Clare seeks the Sacrament of Penance from Tobias in an alleyway while disguised.
+- Tobias transcending his doubt about Clare's mission and becoming her ally.
+- Clare and/or Tobias become suspicious that Holmes is the killer.
+- Clare stays for the night in HH Holmes' hotel to try to find evidence, but he captures her.
+- While captive she learns that he's not just a killer, but plans to create a group of demonically possessed cyborgs.
+- Tobias rescues Clare from Holmes' hotel.
+- As a young boy, HH Holmes gets locked in a room with a corpse. This begins his fascination with death.
+- Another scene of childhood trauma for HH Holmes
+- As a young man, HH Holmes robs a grave to get a body to disect.
+- HH Holmes kills a woman to learn where the soul is located.
+- HH supervises the construction of the murder castle
+- As a child, Clare sees a spirit (demonic) and is frightened. Aurora is there with her. Their fathers are in the distance. Aurora encourages Clare to talk to the spirit, but Clare refuses.
+- Aurora is trained in the psychic arts as a child
+- Aurora explains to Clare how she used to be jealous of how her father had pulled her from the society
+- While she is a child, Clare's father forbids her to have anything further to do with Aurora. Afterwards she sees him go to confession.
+- Clare and Tobias learn that the demonic cyborgs are vulnerable to her shock escrima sticks
+- Clare and Tobias agree to work together
+- Tobias leans that Clare is the Chicago Devil
+- HH Holmes begins a public "scientific demonstration" at the World's Fair, which will turn people into demonic cyborgs

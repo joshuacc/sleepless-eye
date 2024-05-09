@@ -1,0 +1,1 @@
+This folder contains drafts and other files which are not going to be used in the project. However, some useful materials may still be salvaged from them.

@@ -1,0 +1,31 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#5f148e",
+        "activityBar.background": "#5f148e",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#a87018",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#5f148e",
+        "statusBar.background": "#410e61",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#5f148e",
+        "statusBarItem.remoteBackground": "#410e61",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#410e61",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#410e6199",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.remoteColor": "#410e61",
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "[markdown]" : {
+        "editor.fontFamily": "Consolas",
+        "editor.lineHeight": 1.5,
+        "editor.wordWrapColumn": 100,
+        "editor.wordWrap": "bounded"
+    },
+    "zenMode.showTabs": "none",
+    "markdown-editor.useVscodeThemeColor": true
+}
