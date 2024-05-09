@@ -11,6 +11,17 @@ Note: The title is a placeholder, but is taken from the hymn _Let All Mortal Fle
 - **Setting:** 1890s Chicago, around the time of the World's Fair, with some scenes at other times and places
 - **Tone:** Pulpy steampunk thriller, but with moments of numinous awe and horror
 - **Prose style:** Descriptive, but not overly so. The focus is on action and dialogue. Aiming for somewhere between the styles of Orson Scott Card, Ursula K. Le Guin and H. P. Lovecraft.
+- **Dialog style:** It should evoke the time period, but not to the point of difficulty for modern readers.
+
+## Concept
+
+Like Batman and Robin if Batman was a religious visionary young woman like Joan of Arc (Clare), and Robin was a slightly curmudgeonly, and very skeptical Jesuit priest (Fr. Tobias) who is not afraid to use his fists.
+
+It is primarily set in 1890s Chicago during the world fair. The villains are a fictionalized version of HH Holmes, who in addition to being murderous, also has a connection to the demonic and to steampunk technology which allows him to make people into demon-possessed cyborgs, and Aurora, a former childhood friend of Clare’s.
+
+Clare and Aurora’s fathers were both involved in a spiritualist secret society which ultimately touched the demonic. Clare goes around Chicago fighting crime in disguise, armed with skills in martial arts and technology developed by a fictionalized Nicola Tesla. 
+
+Clare’s alter-ego becomes known as a “devil” because of the dark cloak she wears and the electrical fire effect she can produce with it, as well as the electrical burns left by the sticks she fights with (an electrical stick similar to a cattle prod).
 
 ## Inspirations
 
@@ -54,7 +65,7 @@ Note: Not sure about the last name. Probably want something that sounds a bit le
 
 ### Aurora Nocturna Fairchild - Antagonist
 
-Note: Her middle name should not be revealed to the reader until the reveal of her true nature.
+Note: Her middle name should not be revealed to the reader until the revelation that she is the villain.
 
 - **Age:** 22
 - **Religion:** A form of occultism that is a more overtly demonic version of theosophy/anthroposophy/The Hermetic Order of the Golden Dawn
@@ -63,3 +74,9 @@ Note: Her middle name should not be revealed to the reader until the reveal of h
 - **Personality:** Cold, calculating and manipulative, though she appears the opposite on the surface. She is a master of deception and intrigue. She has some mild attachments to friends and family, but is willing to sacrifice them for what she really cares about: power. For others, she doesn't care one way or the other what happens to them.
 - **Background:** Raised by her wealthy father, who was a member of the secret society. She was groomed into demonic communion from a young age. She and Clare became friends when they were children and Clare's father was briefly involved with the society. She has been absent from Chicago for several years.
 - **Goals:** To use Holmes to prototype the creation of demonic cyborgs. Though she doesn't reveal this, the ultimate goal is to make cybernetic enhancement a desirable and fashionable thing, so that she can activate them and seize power. Whether that is through overt force or through manipulation is not clear.
+
+### Nicola Tesla 
+
+### Mr. O'Meara
+
+### Mr. Fairchild
