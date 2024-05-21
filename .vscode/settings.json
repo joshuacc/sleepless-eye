@@ -20,6 +20,35 @@
     },
     "peacock.remoteColor": "#410e61",
     "workbench.colorTheme": "One Dark Pro Darker",
+    "editor.tokenColorCustomizations": {
+        "[*Light*]": {
+            "textMateRules": [
+                {
+                    "scope": "ref.matchtext",
+                    "settings": {
+                        "foreground": "#000"
+                    }
+                }
+            ]
+        },
+        "[One Dark Pro Darker]": {
+            "textMateRules": [
+                {
+                    "scope": "meta.block",
+                    "settings": {
+                        "foreground": "#FF0000",
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope": "markup.heading",
+                    "settings": {
+                        "foreground": "#0000ff",
+                    }
+                }
+            ]
+        }
+    },
     "[markdown]" : {
         "editor.fontFamily": "Consolas",
         "editor.lineHeight": 1.5,
